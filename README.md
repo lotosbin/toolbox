@@ -5,6 +5,15 @@
 - 使用Github Issue 作为分享的App平台
 
 
+## 快捷链接
+### 按平台
+- [iOS](https://github.com/lotosbin/toolbox/issues?q=is%3Aissue%20state%3Aopen%20label%3AiOS)
+- [Android](https://github.com/lotosbin/toolbox/issues?q=is%3Aissue%20state%3Aopen%20label%3AAndroid)
+- [MacOS](https://github.com/lotosbin/toolbox/issues?q=is%3Aissue%20state%3Aopen%20label%3AmacOS)
+- [Windows](https://github.com/lotosbin/toolbox/issues?q=is%3Aissue%20state%3Aopen%20label%3AWindows)
+
+### 按分类
+- [阅读器](https://github.com/lotosbin/toolbox/issues?q=is%3Aissue%20state%3Aopen%20label%3A阅读器)
 
 ## 软件列表
 ### 阅读器
