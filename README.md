@@ -1,6 +1,11 @@
 # toolbox
 工具箱 分享个人喜爱的软件
 
+## 说明
+- 使用Github Issue 作为分享的App平台
+
+
+
 ## 软件列表
 ### 阅读器
 - Boundless Reader (自研 内测中)
@@ -155,3 +160,5 @@
 ## 参考
 - [我的工具](https://bin2.xlog.app/ssInIkE_InIhK3tPrswp5)
 - [Rust 重写万物](https://bin2.xlog.app/Rust-zhong-xie-wan-wu)
+- [bin^2的博客](https://bin2.xlog.app/)
+- [bin^2的博客](https://lotosbin.github.io)
